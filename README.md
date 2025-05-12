@@ -96,7 +96,7 @@ Our multi-layered approach prioritizes both data privacy and performance:
 </div>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/4b88abaf-ce81-4d96-9401-77a2d4ce4703" alt="Resilience Against Attacks" width="70%">
+    <image src = https://github.com/user-attachments/assets/0e9b7e1a-e618-4d34-85a9-d2e4f2ad4a64  width="70%"/>
     <p><b>Figure 5:</b> Resilience Against Attacks</p>
 </div>
 
